@@ -1,4 +1,4 @@
-![Ayesha Yaseen - Developer Banner](./github-banner.png)
+![Ayesha Yaseen - Developer Banner](./Neon%20Developer%20Portfolio%20Workspace.png)
 
 # Hi, I'm Ayesha Yaseen 👋
 

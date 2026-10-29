@@ -1,51 +1,47 @@
+![Ayesha Yaseen - Developer Banner](./github-banner.png)
+
 # Hi, I'm Ayesha Yaseen 👋
 
-### Software Developer | Web Developer | WordPress Developer | Exploring AI
+**Software Developer | Full-Stack Development | Exploring AI & ML**
 
-I'm a Computer Science student and developer passionate about building practical web applications and exploring Artificial Intelligence. I enjoy solving problems, learning new technologies, and turning ideas into functional projects.
+I'm a Computer Science student interested in software development, web applications, Artificial Intelligence, and automation. I enjoy building practical projects, learning new technologies, and improving my problem-solving skills.
 
-- 💻 Focused on Web Development and Software Engineering
-- 🌐 Experienced with WordPress, PHP, MySQL, HTML, and CSS
-- 🤖 Exploring Python and Artificial Intelligence
-- 🚀 Building practical projects to strengthen my development skills
-- 📚 Always learning and improving
+## About Me
 
-### 🛠️ Tech Stack
+- 🎓 Computer Science student at the University of Agriculture, Faisalabad.
+- 💻 Interested in full-stack web development and software engineering.
+- 🐍 Learning Python and exploring AI and Machine Learning.
+- 🚀 Building projects to gain practical development experience.
 
-**Languages:** PHP, Python, HTML, CSS, JavaScript (Basic)
+## Skills
 
-**Web Development:** WordPress, Elementor
+- **Languages:** Python, PHP, HTML, CSS, JavaScript (Basic)
+- **Web Development:** Frontend and backend development
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, XAMPP
+- **Currently Learning:** AI, Machine Learning, and Python development
 
-**Database:** MySQL
+## Featured Projects
 
-**Tools:** Git, GitHub, XAMPP, VS Code
+- **[AI Emotion Detector](https://github.com/Ayesha0326/AI-Emotion-Detector)** — Webcam-based facial emotion analysis.
+- **[SecureCode AI](https://github.com/Ayesha0326/AI_Code-Security-Agent)** — Python-based code security scanner.
+- **[TaskHive AI](https://github.com/Ayesha0326/TaskHive_AI)** — Full-stack marketplace built with PHP and MySQL.
+- **[InterviewIQ](https://github.com/Ayesha0326/InterviewIQ)** — Interview preparation project.
+- **[Personal Portfolio](https://github.com/Ayesha0326/MY-PORTFOLIO)** — My web development portfolio.
 
-### 🚀 Featured Projects
+## My Goals
 
-**TaskHive AI**  
-A full-stack marketplace built with PHP and MySQL, featuring buyer and seller functionality.
+- Strengthen my software development skills.
+- Learn AI and Machine Learning step by step.
+- Build useful AI-powered applications.
+- Explore intelligent automation and modern software technologies.
 
-**AI Emotion Detector**  
-A webcam-based project focused on facial emotion detection.
+## Connect With Me
 
-**SecureCode AI**  
-An AI-assisted code security project exploring vulnerability detection and automated fixes.
-
-**Personal Portfolio**  
-A portfolio website showcasing my development skills and projects.
-
-### 🎯 Current Goals
-
-- Strengthen my Python and AI development skills
-- Build practical AI-powered applications
-- Improve my software engineering and problem-solving abilities
-- Contribute to meaningful projects and collaborate with developers
-
-### 🤝 Let's Connect
-
-- **GitHub:** [@Ayesha0326](https://github.com/Ayesha0326)
-- **Portfolio:** [Visit My Portfolio](https://ayesha-yaseen-portfolio.vercel.app/)
+- **GitHub:** [Ayesha0326](https://github.com/Ayesha0326)
+- **LinkedIn:** [Ayesha Yaseen](https://www.linkedin.com/in/ayesha-yaseen-26687239b/)
+- **Portfolio:** [Visit my portfolio](https://ayesha-yaseen-portfolio.vercel.app/)
 
 ---
 
-⭐ Thanks for visiting my profile!
+*Learning, building, and improving one project at a time.*
